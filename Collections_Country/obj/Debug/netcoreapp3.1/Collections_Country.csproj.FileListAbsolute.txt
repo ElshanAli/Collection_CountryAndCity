@@ -1,0 +1,14 @@
+D:\This PC\Collections_Country\Collections_Country\obj\Debug\netcoreapp3.1\Collections_Country.csproj.AssemblyReference.cache
+D:\This PC\Collections_Country\Collections_Country\obj\Debug\netcoreapp3.1\Collections_Country.GeneratedMSBuildEditorConfig.editorconfig
+D:\This PC\Collections_Country\Collections_Country\obj\Debug\netcoreapp3.1\Collections_Country.AssemblyInfoInputs.cache
+D:\This PC\Collections_Country\Collections_Country\obj\Debug\netcoreapp3.1\Collections_Country.AssemblyInfo.cs
+D:\This PC\Collections_Country\Collections_Country\obj\Debug\netcoreapp3.1\Collections_Country.csproj.CoreCompileInputs.cache
+D:\This PC\Collections_Country\Collections_Country\bin\Debug\netcoreapp3.1\Collections_Country.exe
+D:\This PC\Collections_Country\Collections_Country\bin\Debug\netcoreapp3.1\Collections_Country.deps.json
+D:\This PC\Collections_Country\Collections_Country\bin\Debug\netcoreapp3.1\Collections_Country.runtimeconfig.json
+D:\This PC\Collections_Country\Collections_Country\bin\Debug\netcoreapp3.1\Collections_Country.runtimeconfig.dev.json
+D:\This PC\Collections_Country\Collections_Country\bin\Debug\netcoreapp3.1\Collections_Country.dll
+D:\This PC\Collections_Country\Collections_Country\bin\Debug\netcoreapp3.1\Collections_Country.pdb
+D:\This PC\Collections_Country\Collections_Country\obj\Debug\netcoreapp3.1\Collections_Country.dll
+D:\This PC\Collections_Country\Collections_Country\obj\Debug\netcoreapp3.1\Collections_Country.pdb
+D:\This PC\Collections_Country\Collections_Country\obj\Debug\netcoreapp3.1\Collections_Country.genruntimeconfig.cache
